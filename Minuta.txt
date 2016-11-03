@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esta minuta es de prueba
+=======
+Esta minuta es de prueba
+>>>>>>> origin/master
